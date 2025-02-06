@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <atom:link href="https://www.nationalgeographic.es/api/rss/latest_contents.xml" rel="self" type="application/rss+xml"/>
+
+        <title>Divulgación científica</title>
+        <link>https://www.nationalgeographic.es/api/rss/latest_contents.xml</link>
+        <description>Canal RSS sobre ciencia, naturaleza, tecnología, humanidades, historia y mucho más.</description>
+        <language>es</language>
+        <pubDate>Wed, 05 Feb 2025 12:20:04 GMT</pubDate>
+        <lastBuildDate>Wed, 05 Feb 2025 12:20:04 GMT</lastBuildDate>
+
+        <item>
+            <title>¿Quién fue Rosa Parks? Conoce a la mujer que revolucionó la lucha por los derechos de los afroamericanos</title>
+            <link>https://www.nationalgeographic.es/historia/rosa-parks-quien-fue</link>
+            <description>Rosa Parks, una costurera de mediana edad, fue una insospechada heroína de los derechos civiles en Estados Unidos. El día en que se negó a ceder un asiento en un autobús segregado en 1955, Parks se convirtió en una leyenda en la lucha por la igualdad racial que sería recordada para siempre.</description>
+            <pubDate>Tue, 04 Feb 2025 11:20:38 GMT</pubDate>
+            <guid>https://www.nationalgeographic.es/historia/rosa-parks-quien-fue</guid>
+            <category>Historia</category>
+            <enclosure url="https://static.nationalgeographic.es/files/styles/image_3200/public/ap9911280890.webp" length="12345678" type="image/webp"/>
+            <author>editor_blakemore@nationalgeographic.es (Erin Blakemore)</author>
+        </item>
+
+         <item>
+            <title>Un estudio descubre niveles alarmantes de microplásticos en el cerebro</title>
+            <link>https://www.nationalgeographic.es/ciencia/2025/02/niveles-alarmantes-microplasticos-cerebro</link>
+            <description>Los microplásticos, se han ido infiltrando en el medio ambiente a un ritmo alarmante, con una producción actual de más de 300 millones de toneladas de plástico al año.</description>
+            <pubDate>Tue, 04 Feb 2025 09:38:15 GMT</pubDate>
+            <guid>https://www.nationalgeographic.es/ciencia/2025/02/niveles-alarmantes-microplasticos-cerebro</guid>
+            <category>Ciencia</category>
+            <enclosure url="https://static.nationalgeographic.es/files/styles/image_3200/public/m1360270-blood-brainbarrierbreakdown.webp" length="12345679" type="image/webp"/>
+            <author>editor_ferrari@nationalgeographic.es (Olivia Ferrari)</author>
+        </item>
+
+        <item>
+            <title>Pastizales, un ecosistema mundial pero impredecible</title>
+            <link>https://www.nationalgeographic.es/medio-ambiente/pastizales-praderas-pasto-y-vegetacion</link>
+            <description>En el Medio Oeste de EE. UU., suelen llamarse praderas (del inglés grasslands). En Sudamérica, se conocen como pampas, y en Eurasia central se denominan estepas, mientras que para los africanos son sabanas.</description>
+            <pubDate>Mon, 03 Feb 2025 10:01:28 GMT</pubDate>
+            <guid>https://www.nationalgeographic.es/medio-ambiente/pastizales-praderas-pasto-y-vegetacion</guid>
+            <category>Medio Ambiente</category>
+            <enclosure url="https://static.nationalgeographic.es/files/styles/image_3200/public/grasslands-reference-01.webp" length="12345670" type="image/webp"/>
+            <author>editor_cristinaS@nationalgeographic.es (Cristina Santiago)</author>
+        </item>
+
+    </channel>
+</rss>
